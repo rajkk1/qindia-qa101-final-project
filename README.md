@@ -14,7 +14,7 @@ To see if this works, open an IPython notebook in the repo and run the following
 from u_init import u_init
 
 qc = u_init('qiskit')
-print(qc
+print(qc)
 ```
 
 and you should see an image of the circuit. You can replace `qiskit` with your language of preference.
