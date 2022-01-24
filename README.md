@@ -41,4 +41,4 @@ Once you have implemented the above tasks, feel free to add any extensions to th
  1. Allow the user to input the desired uncertainty
  2. Let the function take in custom $U_{init}$ circuits with more than 2 qubits
  3. Allow the user to input any combination of input states e.g. '00' and '01'.  
- 4. Implement a non-canonical amplitude estimation algorithm, e.g. [Maximum Likelihood Amplitude Estimation](https://link.springer.com/article/10.1007/s11128-019-2565-2), [Iterative Amplitude Estimation](https://www.nature.com/articles/s41534-021-00379-1), [Power Law Amplitude Estimation](https://arxiv.org/abs/2012.03348) or QoPrime Amplitude Estimation](https://arxiv.org/abs/2012.03348).
+ 4. Implement a non-canonical amplitude estimation algorithm, e.g. [Maximum Likelihood Amplitude Estimation](https://link.springer.com/article/10.1007/s11128-019-2565-2), [Iterative Amplitude Estimation](https://www.nature.com/articles/s41534-021-00379-1), [Power Law Amplitude Estimation](https://arxiv.org/abs/2012.03348) or [QoPrime Amplitude Estimation](https://arxiv.org/abs/2012.03348).
