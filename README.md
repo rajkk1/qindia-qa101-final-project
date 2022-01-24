@@ -31,7 +31,8 @@ Once you have implemented the above tasks, feel free to add any extensions to th
 
 ### Running on Quantum Hardware
  1. Run the algorithm on a real quantum hardware backend.
- 2. Run the algorithm with error mitigation on real hardware.
+ 2. Compare the performance of the algorithm on different real hardware backends.
+ 3. Improve the performance of the algorithm on real hardware by implementing error mitigation.
 
 ### Quantum Software extensions
  1. Program it in a way that the user can create the amplitude estimation circuit in any of the 3 languages.
