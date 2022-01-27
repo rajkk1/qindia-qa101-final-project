@@ -7,7 +7,7 @@ import cirq
 from qiskit import QuantumCircuit, QuantumRegister
 
 def u_init(quantum_language: str = "qiskit") -> Union[QuantumCircuit, cirq.Circuit, Circuit]:
-    """Produces a quantum circuit with two qubits rotated by theta_1 and theta_2 respectively using Ry gates"""
+    """Produces a quantum circuit with two qubits rotated by theta_0 and theta_1 respectively using Ry gates"""
     theta_0 = 0.2
     theta_1 = 1.6
     if quantum_language == "qiskit":
