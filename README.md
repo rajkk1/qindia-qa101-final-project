@@ -1,5 +1,5 @@
 # qindia-qa101-final-project
-The template for the final project of the QIndia quantum-algorithms-101 flipped classroom.
+The template for the final project of the QIndia quantum-algorithms-101 flipped classroom. Please fork this project before starting to work on it so that a repo get created in your own personal Github and you can have it as your own project!
 
 ## Setup
 The goal of this project is to implement a circuit that performs quantum amplitude estimation. You have the choice of doing this using Qiskit, Cirq or Braket.
