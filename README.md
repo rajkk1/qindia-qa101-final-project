@@ -28,7 +28,7 @@ You can add/change/remove any of the original files. Check that your circuit wor
 
 ## Tips & Tricks
 
-Feeling a bit stuck? Then go over the worksheets and coding exercises for amplitude amplification, phase estimation and amplitude estimation. That should already get you quite far through the process. And of course don't hesitate to contact us, the instructors!
+Feeling a bit stuck? Then go over the worksheets and coding exercises for amplitude amplification, phase estimation and amplitude estimation. That should already get you quite far through the process. And of course don't hesitate to contact us, the instructors, with any further doubts and questions!
 
 ## Extensions
 Once you have implemented the above tasks, feel free to add any extensions to the project you wish. Here are some suggestions below:
