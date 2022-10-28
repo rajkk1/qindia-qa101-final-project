@@ -26,6 +26,10 @@ Implement the following functions (with however many helper functions you want) 
 
 You can add/change/remove any of the original files. Check that your circuit works using a simulator and that it gives the correct answers. Try and document your code as well as possible, including the precision of your algorithm.
 
+## Tips & Tricks
+
+Feeling a bit stuck? Then go over the worksheets and coding exercises for amplitude amplification, phase estimation and amplitude estimation. That should already get you quite far through the process. And of course don't hesitate to contact us, the instructors!
+
 ## Extensions
 Once you have implemented the above tasks, feel free to add any extensions to the project you wish. Here are some suggestions below:
 
